@@ -1,6 +1,6 @@
 # Web Stopwatch
 
-A simple and stylish stopwatch built.  
+A simple and stylish stopwatch built using **HTML, CSS, and JavaScript**.  
 This project includes a background image and custom image-based buttons for play, pause, and reset.
 
 ---
