@@ -10,7 +10,7 @@ This project includes a background image and custom image-based buttons for play
 - Custom UI with background image
 - Image buttons for controls
 - Real-time time tracking (hours, minutes, seconds, milliseconds)
-- Responsive design
+
 
 ---
 
