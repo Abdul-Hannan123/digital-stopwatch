@@ -12,7 +12,7 @@ A simple and responsive Notes App built using HTML, CSS, and JavaScript. This ap
 - 📄 Create multiple notes
 - 📱 Responsive design
 - 🎨 Clean and simple user interface
-- ⚡ Built with vanilla JavaScript
+- ⚡ Built with JavaScript
 
 ---
 
