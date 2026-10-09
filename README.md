@@ -23,3 +23,9 @@ A simple and responsive Notes App built using HTML, CSS, and JavaScript. This ap
 - JavaScript – Creating and deleting notes dynamically
 
 ---
+
+## 📸 Screenshot
+
+<img width="959" height="509" alt="create notes" src="https://github.com/user-attachments/assets/02a741de-66c9-4e3d-a485-d46c0b1698a2" />
+
+---
