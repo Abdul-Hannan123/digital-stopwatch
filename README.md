@@ -32,7 +32,7 @@ A simple and responsive Notes App built using HTML, CSS, and JavaScript. This ap
 
 ## How It Works
 
-1. Click the Create Notes button.
+1. Click the Create Notes.
 2. A new note is created on the page.
 3. Enter your text inside the note.
 4. Click the delete icon to remove notes.
