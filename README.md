@@ -11,7 +11,7 @@ A simple and responsive Notes App built using HTML, CSS, and JavaScript. This ap
 - 🗑️ Delete notes
 - 📄 Create multiple notes
 - 📱 Responsive design
-- 🎨 Clean and simple
+- 🎨 Clean and simple user interface.
 - ⚡ Built with JavaScript
 
 ---
