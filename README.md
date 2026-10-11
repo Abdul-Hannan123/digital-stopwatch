@@ -6,13 +6,13 @@ A simple and responsive Notes App built using HTML, CSS, and JavaScript. This ap
 
 ## 🚀 Features
 
-- ➕ Create new notes
+- ➕ Create new notes.
 - 📝 Add text to each note
 - 🗑️ Delete notes
 - 📄 Create multiple notes
 - 📱 Responsive design
 - 🎨 Clean and simple user interface.
-- ⚡ Built with JavaScript
+- ⚡ Built with vanilla JavaScript.
 
 ---
 
