@@ -18,7 +18,7 @@ A simple and responsive Notes App built using HTML, CSS, and JavaScript. This ap
 
 ## 🛠️ Technologies Used
 
-- HTML5 – Structure
+- HTML5 – Structure of the layout 
 - CSS3 – Styling, layout, and responsive design
 - JavaScript – Creating and deleting notes dynamically 
 
