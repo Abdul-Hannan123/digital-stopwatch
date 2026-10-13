@@ -16,3 +16,17 @@ A simple and interactive Stopwatch App built using HTML, CSS, and JavaScript. Th
 - ⚡ Lightweight – Built using vanilla JavaScript without external libraries.
 
 ---
+
+## 🛠️ Technologies Used
+
+- HTML5 – Structure of the application.
+- CSS3 – Styling, layout, and visual design.
+- JavaScript – Stopwatch logic, timer updates, and button functionality.
+
+---
+
+## 📸 Screenshot
+
+<img width="953" height="442" alt="result" src="https://github.com/user-attachments/assets/1238de90-12fc-4f76-a87a-2abe349749a2" />
+
+---
