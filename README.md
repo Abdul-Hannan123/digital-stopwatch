@@ -72,7 +72,7 @@ Some possible improvements for this project include:
 
 ## 👨‍💻 Author
 
-Abdul Hannan
+Abdul Hannan | BSCS student
 
 Built with HTML, CSS & JavaScript.
 
