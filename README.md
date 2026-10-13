@@ -30,3 +30,13 @@ A simple and interactive Stopwatch App built using HTML, CSS, and JavaScript. Th
 <img width="953" height="442" alt="result" src="https://github.com/user-attachments/assets/1238de90-12fc-4f76-a87a-2abe349749a2" />
 
 ---
+
+## 🎮 How It Works
+
+1. Open the Stopwatch App in your browser.
+2. Click the Play button to start the stopwatch.
+3. Click the Stop button to pause the timer.
+4. Click the Reset button to reset the elapsed time to zero.
+5. Start the stopwatch again whenever you want.
+
+---
