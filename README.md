@@ -69,3 +69,13 @@ Some possible improvements for this project include:
 - 📱 Improve mobile layout and controls
 
 ---
+
+## 👨‍💻 Author
+
+Abdul Hannan
+
+Built with HTML, CSS & JavaScript.
+
+⭐ If you like this project, consider giving the repository a star!
+
+---
