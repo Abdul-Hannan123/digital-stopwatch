@@ -1,41 +1,18 @@
-# 📝 Notes App
+# ⏱️ Stopwatch App
 
-A simple and responsive Notes App built using HTML, CSS, and JavaScript. This application allows users to create multiple notes and delete notes whenever they are no longer.
+A simple and interactive Stopwatch App built using HTML, CSS, and JavaScript. This application allows users to start, stop, and reset the stopwatch while displaying elapsed time in hours, minutes, and seconds.
 
 ---
 
 ## 🚀 Features
 
-- ➕ Create new notes.
-- 📝 Add text to each note
-- 🗑️ Delete notes
-- 📄 Create multiple notes
-- 📱 Responsive design
-- 🎨 Clean and simple user interface.
-- ⚡ Built with vanilla JavaScript.
-
----
-
-## 🛠️ Technologies Used
-
-- HTML5 – Structure of the layout 
-- CSS3 – Styling, layout, and responsive design
-- JavaScript – Creating and deleting notes dynamically 
-
----
-
-## 📸 Screenshot
-
-<img width="959" height="509" alt="create notes" src="https://github.com/user-attachments/assets/02a741de-66c9-4e3d-a485-d46c0b1698a2" />
-
----
-
-## How It Works
-
-1. Click the Create notes.
-2. A new note is created on the page.
-3. Enter your inside the note button.
-4. Click the delete icon to remove notes.
-5. You can create as many notes as you need.
+- ▶️ Start Stopwatch – Start the timer with a single click.
+- ⏸️ Stop Stopwatch – Pause the timer whenever needed.
+- 🔄 Reset Stopwatch – Reset the timer back to zero.
+- ⏱️ Real-Time Timer – Displays elapsed time dynamically.
+- 🔢 Digital Time Display – Shows time in a clear format.
+- 🎨 Modern UI – Clean design with a beautiful background image.
+- 📱 Responsive Design – Works across different screen sizes.
+- ⚡ Lightweight – Built using vanilla JavaScript without external libraries.
 
 ---
