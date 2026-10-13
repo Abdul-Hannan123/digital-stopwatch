@@ -56,3 +56,16 @@ This project was created to practice and improve JavaScript skills, especially:
 - Responsive web design
 
 ---
+
+## 🔮 Future Improvements
+
+Some possible improvements for this project include:
+
+- 🏁 Add lap time functionality
+- 📋 Display a list of recorded laps
+- ⏲️ Add a countdown timer
+- 🔔 Add sound notifications
+- 🎨 Add customizable themes
+- 📱 Improve mobile layout and controls
+
+---
