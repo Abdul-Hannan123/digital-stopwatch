@@ -45,7 +45,7 @@ A simple and interactive Stopwatch App built using HTML, CSS, and JavaScript. Th
 
 This project was created to practice and improve JavaScript skills, especially:
 
-
+- DOM manipulation
 - Event handling
 - JavaScript timers
 - setInterval() and clearInterval()
